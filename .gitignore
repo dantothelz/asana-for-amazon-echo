@@ -28,3 +28,6 @@ node_modules
 
 # Application Configuration
 app_config.json
+
+# App Package
+*.zip
