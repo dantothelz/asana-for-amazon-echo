@@ -24,7 +24,7 @@ SkillController.prototype.intentHandlers = {
   ListTaskIntent: function(intent, session, response){
     var IntentHandler = require("./intents/ListTaskIntent");
     IntentHandler.execute(intent, session, response);
-  }
+  },
   SelectProjectIntent: function(intent, session, response){
     var IntentHandler = require("./intents/SelectProjectIntent");
     IntentHandler.execute(intent, session, response);
