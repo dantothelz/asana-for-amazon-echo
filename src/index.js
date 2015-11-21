@@ -1,5 +1,6 @@
 var AlexaSkill = require('./AlexaSkill');
-var APP_ID = 'YOUR APP ID';
+var config = require('./app_config.json');
+var APP_ID = config.appId;
 
 var IntentOneHandler = function(intent, session, response){
     var text = 'You successfully triggered Intent One.';
