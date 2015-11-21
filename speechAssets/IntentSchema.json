@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "IntentOne",
+      "slots": [
+        {
+          "name": "option",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "IntentTwo",
+      "slots": []
+    }
+  ]
+}

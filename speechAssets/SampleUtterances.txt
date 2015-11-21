@@ -1,0 +1,3 @@
+IntentOne ask APP TRIGGER to VERB {arbitrary test|option}
+
+IntentTwo ask APP TRIGGER to VERB
