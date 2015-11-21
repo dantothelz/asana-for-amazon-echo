@@ -1,3 +1,79 @@
-IntentOne ask APP TRIGGER to VERB {arbitrary test|option}
+CreateTaskIntent create {task|task}
+CreateTaskIntent create {new task|task}
+CreateTaskIntent create {a new task|task}
+CreateTaskIntent create {is a new task|task}
+CreateTaskIntent create {this is a new task|task}
+CreateTaskIntent create {this is a new task with|task}
+CreateTaskIntent create {this is a new task with a|task}
+CreateTaskIntent create {this is a new task with a long|task}
+CreateTaskIntent create {this is a new task with a long name|task}
+CreateTaskIntent create task {task|task}
+CreateTaskIntent create task {new task|task}
+CreateTaskIntent create task {a new task|task}
+CreateTaskIntent create task {is a new task|task}
+CreateTaskIntent create task {this is a new task|task}
+CreateTaskIntent create task {this is a new task with|task}
+CreateTaskIntent create task {this is a new task with a|task}
+CreateTaskIntent create task {this is a new task with a long|task}
+CreateTaskIntent create task {this is a new task with a long name|task}
+CreateTaskIntent add {task|task}
+CreateTaskIntent add {new task|task}
+CreateTaskIntent add {a new task|task}
+CreateTaskIntent add {is a new task|task}
+CreateTaskIntent add {this is a new task|task}
+CreateTaskIntent add {this is a new task with|task}
+CreateTaskIntent add {this is a new task with a|task}
+CreateTaskIntent add {this is a new task with a long|task}
+CreateTaskIntent add {this is a new task with a long name|task}
+CreateTaskIntent add task {task|task}
+CreateTaskIntent add task {new task|task}
+CreateTaskIntent add task {a new task|task}
+CreateTaskIntent add task {is a new task|task}
+CreateTaskIntent add task {this is a new task|task}
+CreateTaskIntent add task {this is a new task with|task}
+CreateTaskIntent add task {this is a new task with a|task}
+CreateTaskIntent add task {this is a new task with a long|task}
+CreateTaskIntent add task {this is a new task with a long name|task}
+CreateTaskIntent add new task {task|task}
+CreateTaskIntent add new task {new task|task}
+CreateTaskIntent add new task {a new task|task}
+CreateTaskIntent add new task {is a new task|task}
+CreateTaskIntent add new task {this is a new task|task}
+CreateTaskIntent add new task {this is a new task with|task}
+CreateTaskIntent add new task {this is a new task with a|task}
+CreateTaskIntent add new task {this is a new task with a long|task}
+CreateTaskIntent add new task {this is a new task with a long name|task}
+CreateTaskIntent new task {task|task}
+CreateTaskIntent new task {new task|task}
+CreateTaskIntent new task {a new task|task}
+CreateTaskIntent new task {is a new task|task}
+CreateTaskIntent new task {this is a new task|task}
+CreateTaskIntent new task {this is a new task with|task}
+CreateTaskIntent new task {this is a new task with a|task}
+CreateTaskIntent new task {this is a new task with a long|task}
+CreateTaskIntent new task {this is a new task with a long name|task}
 
-IntentTwo ask APP TRIGGER to VERB
+ListTaskIntent list tasks
+ListTaskIntent list all tasks
+ListTaskIntent all tasks
+
+ListProjectsIntent list projects
+ListProjectsIntent list all projects
+ListProjectsIntent all projects
+
+SelectProjectIntent select {project|project}
+SelectProjectIntent select {project name|project}
+SelectProjectIntent select {long project name|project}
+SelectProjectIntent select {really long project name|project}
+SelectProjectIntent use {project|project}
+SelectProjectIntent use {project name|project}
+SelectProjectIntent use {long project name|project}
+SelectProjectIntent use {really long project name|project}
+SelectProjectIntent use project {project|project}
+SelectProjectIntent use project {project name|project}
+SelectProjectIntent use project {long project name|project}
+SelectProjectIntent use project {really long project name|project}
+SelectProjectIntent project {project|project}
+SelectProjectIntent project {project name|project}
+SelectProjectIntent project {long project name|project}
+SelectProjectIntent project {really long project name|project}
