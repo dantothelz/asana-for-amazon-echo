@@ -57,10 +57,6 @@ ListTaskIntent list tasks
 ListTaskIntent list all tasks
 ListTaskIntent all tasks
 
-ListProjectsIntent list projects
-ListProjectsIntent list all projects
-ListProjectsIntent all projects
-
 SelectProjectIntent select {project|project}
 SelectProjectIntent select {project name|project}
 SelectProjectIntent select {long project name|project}
@@ -77,3 +73,7 @@ SelectProjectIntent project {project|project}
 SelectProjectIntent project {project name|project}
 SelectProjectIntent project {long project name|project}
 SelectProjectIntent project {really long project name|project}
+
+ListProjectsIntent list projects
+ListProjectsIntent list all projects
+ListProjectsIntent all projects

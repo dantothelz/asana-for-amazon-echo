@@ -1,16 +1,29 @@
 {
   "intents": [
     {
-      "intent": "IntentOne",
+      "intent": "CreateTaskIntent",
       "slots": [
         {
-          "name": "option",
+          "name": "task",
           "type": "LITERAL"
         }
       ]
     },
     {
-      "intent": "IntentTwo",
+      "intent": "ListTaskIntent",
+      "slots": []
+    },
+    {
+      "intent": "SelectProjectIntent",
+      "slots": [
+        {
+          "name": "project",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "ListProjectsIntent",
       "slots": []
     }
   ]
