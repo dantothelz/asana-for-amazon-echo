@@ -1,3 +1,9 @@
 {
-	"appId": "YOUR APP ID"
+	"amazon": {
+		"appId": "YOUR APP ID",
+	},
+	"asana": {
+		"clientId": "YOUR CLIENT ID",
+		"clientSecret": "YOUR CLIENT SECRET",
+	}
 }

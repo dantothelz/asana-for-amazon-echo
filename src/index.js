@@ -1,6 +1,6 @@
 var AlexaSkill = require('./AlexaSkill');
 var config = require('./app_config.json');
-var APP_ID = config.appId;
+var APP_ID = config.amazon.appId;
 
 var SkillController = function(){
   AlexaSkill.call(this, APP_ID);
