@@ -1,0 +1,2 @@
+#!/bin/bash
+zip -uqr afae.zip ./* -x app_config.sample.json package.json .DS_Store build
