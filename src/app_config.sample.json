@@ -1,9 +1,10 @@
 {
 	"amazon": {
-		"appId": "YOUR APP ID",
+		"appId": "YOUR APP ID"
 	},
 	"asana": {
 		"clientId": "YOUR CLIENT ID",
 		"clientSecret": "YOUR CLIENT SECRET",
+		"redirectURL": "YOUR REDIRECT URL"
 	}
 }
